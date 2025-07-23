@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hacking and Artificial Intelligence
 - 🌱 I’m currently learning on Binus University
 - 💞️ I’m looking to collaborate on Professional Team of Cyber Security
-- ⚡ Fun fact: Im a BCA scholarship receiver in 2025.
+- ⚡ Fun fact: Im a BCA scholarship (PPTI) 2025 Awardee
 
 <!---
 Hruto/Hruto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
