@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hruto
 - 👀 I’m interested in Hacking and Artificial Intelligence
-- 🌱 I’m currently learning on Senior High School
+- 🌱 I’m currently learning on Binus University
 - 💞️ I’m looking to collaborate on Professional Team of Cyber Security
-- ⚡ Fun fact: Im so bored and i made this site to cheer me up
+- ⚡ Fun fact: Im a BCA scholarship receiver in 2025.
 
 <!---
 Hruto/Hruto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
